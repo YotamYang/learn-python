@@ -15,3 +15,7 @@ print ' ' * left_margin + '|' + ' ' * box_width + '|'
 print ' ' * left_margin + "+" + '-' * box_width + '+'
 
 print "over"
+
+print "ss"
+
+print "123"
