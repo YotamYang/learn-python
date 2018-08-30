@@ -19,3 +19,5 @@ print "over"
 print "ss"
 
 print "123"
+# git commit
+# git config --globle core.edit 'vim'
